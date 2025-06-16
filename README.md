@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![IMG_9776](https://github.com/user-attachments/assets/54494ebf-f7fa-44c3-8270-17b57d7b6388)
+
+
 <!--
 **kubetux/kubetux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
