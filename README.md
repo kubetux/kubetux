@@ -3,6 +3,9 @@
 🏆 **Winners of India’s 1st Cloud Native Hackathon – CNCF Pune!** 🇮🇳  
 **Team KubeTux:** Anup | Akash | Megha | Atharv
 
+![IMG_9776](https://github.com/user-attachments/assets/b97cd3bf-9167-40df-bfef-23c64335b518)
+
+
 🚀 **6 hours. 1 mission.** Build a self-healing, production-grade Kubernetes platform — no YAML pain, no late-night alerts.
 
 ---
